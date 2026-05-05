@@ -2,7 +2,7 @@ export default {
   expo: {
     name: 'NKUMU Music',
     slug: 'nkumu-music',
-    version: '1.0.0',
+    version: '1.1.0',
     orientation: 'portrait',
     scheme: 'nkumu',
     newArchEnabled: true,
